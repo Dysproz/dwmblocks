@@ -1,3 +1,12 @@
+
+# What is it?
+This is my custom setup of dwmblocks to make dwm status bar that fits my needs.
+
+This code is based on Luke Smith's [setup](https://github.com/LukeSmithxyz/dwmblocks)
+
+
+# ====================================================
+# Original description on Luke's repository
 # dwmblocks
 
 Modular status bar for dwm written in c.
