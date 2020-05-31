@@ -2,7 +2,6 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{"",	"volume_dwmblocks",	0,	10},
-	{"",	"battery_dwmblocks",	5,	3},
 	{"",	"clock_dwmblocks",	60,	1},
 };
 
